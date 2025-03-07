@@ -1,6 +1,11 @@
 vulnerability-assessment
 scoping-and-planning
 define-study-area
+narw
+cuviers-beaked-whale
+harbor-porpoise
+unidentified-seals
+leatherback-turtles
 impact-producing-factors
 what-is-an-impact-producing-factor
 noise
