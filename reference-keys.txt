@@ -13,6 +13,7 @@ site-surveys
 construction
 operations-and-maintenance
 decommissioning
+vessel-traffic
 north-atlantic-right-whale
 stock
 climate-vulnerability-analysis-overview
